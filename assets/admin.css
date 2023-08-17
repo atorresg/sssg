@@ -1,0 +1,10 @@
+.tab-content {
+    display: none;
+}
+.tab-content.nav-tab-active {
+    display: block;
+}
+
+.tab-content input, .tab-content textarea {
+    width: 50%;
+}
